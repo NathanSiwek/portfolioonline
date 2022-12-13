@@ -1,7 +1,7 @@
-@font-face {
+/* @font-face {
   font-family: "Remind Him";
   src: url("../font/Remind\ Him.otf");
-}
+} */
 body {
     color:white;
     background-image: url(..//image/ImageDeFond.jpg);
@@ -110,7 +110,7 @@ a{
 }
 
 .référentiel{
-  margin-top: -27%;
+  margin-top: -30%;
 }
 
 .jacobservice{
